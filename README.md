@@ -1,2 +1,2 @@
 # smart-bitcoin
-predicts price of bitcoin using bayesian regression model
+predicts price of bitcoin using implementation of bayesian network
